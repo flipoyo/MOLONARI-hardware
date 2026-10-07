@@ -1,0 +1,8 @@
+repos = [
+    "github:flipoyo/MOLONARI-hardware",
+    { repository = "github:flipoyo/firmware", default_branch = "main" },
+]
+
+[project]
+name = "MOLONARI-hardware"
+default_branch = "CGS-MOLO"
