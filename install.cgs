@@ -1,6 +1,6 @@
 repos = [
     "github:flipoyo/MOLONARI-hardware",
-    { repository = "github:flipoyo/firmware" },
+    { repository = "github:flipoyo/firmware", fallback_branch = "main" },
 ]
 
 [project]
