@@ -1,6 +1,6 @@
 repos = [
     "github:flipoyo/MOLONARI-hardware",
-    { repository = "github:flipoyo/firmware", default_branch = "main" },
+    { repository = "github:flipoyo/firmware" },
 ]
 
 [project]
