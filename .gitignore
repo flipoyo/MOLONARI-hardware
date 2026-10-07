@@ -64,3 +64,4 @@ docs/build/
 *.log
 *.out
 *.toc
+firmware
