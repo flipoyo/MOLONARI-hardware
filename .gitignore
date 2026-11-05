@@ -65,3 +65,8 @@ docs/build/
 *.out
 *.toc
 firmware
+.atcgs
+.cgitsync/
+.cgitsync/.memory
+.omniscience
+MOLO-HRDW.lgr
