@@ -1,6 +1,7 @@
 repos = [
     "github:flipoyo/MOLONARI-hardware",
     { repository = "github:flipoyo/firmware" },
+    { repository = "github:flipoyo/MOLO-firmware-config" },
 ]
 
 [project]
