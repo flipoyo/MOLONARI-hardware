@@ -1,7 +1,8 @@
 repos = [
     "github:flipoyo/MOLONARI-hardware",
     { repository = "github:flipoyo/firmware" },
-    { repository = "github:flipoyo/MOLO-firmware-config" },
+    { repository = "github:flipoyo/MOLO-firmware-config" , relative_path = "config" },
+    { repository = "github:flipoyo/.memory", relative_path = ".cgitsync/.memory", fallback_branch = "main", private = true, writable = true, nested_config = "disabled" },
 ]
 
 [project]
